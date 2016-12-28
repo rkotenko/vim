@@ -1,27 +1,36 @@
 [submodule "bundle/colorschemes"]
 	path = bundle/colorschemes
 	url = https://github.com/flazz/vim-colorschemes.git
+  ignore = dirty
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
-[submodule "bundle/vim-javascript"]
-	path = bundle/vim-javascript
+  ignore = dirty
+[submodule "bundle/vim-javascript"] 
+  path = bundle/vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
+  ignore = dirty
 [submodule "bundle/vim-node"]
 	path = bundle/vim-node
 	url = https://github.com/moll/vim-node.git
+  ignore = dirty
 [submodule "bundle/tern_for_vim"]
 	path = bundle/tern_for_vim
 	url = https://github.com/ternjs/tern_for_vim.git
+  ignore = dirty
 [submodule "bundle/vim-jsx"]
 	path = bundle/vim-jsx
 	url = https://github.com/mxw/vim-jsx.git
+  ignore = dirty
 [submodule "bundle/vim-json"]
 	path = bundle/vim-json
 	url = https://github.com/elzr/vim-json.git
+  ignore = dirty
 [submodule "bundle/jsdoc-syntax/jsdoc-syntax.vim"]
 	path = bundle/jsdoc-syntax/jsdoc-syntax.vim
 	url = https://github.com/othree/jsdoc-syntax.vim
+  ignore = dirty
 [submodule "bundle/vim-jsdoc"]
 	path = bundle/vim-jsdoc
 	url = https://github.com/heavenshell/vim-jsdoc.git
+  ignore = dirty
